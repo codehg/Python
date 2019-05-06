@@ -1,2 +1,2 @@
 # Python
-Projetos em python
+Projetos e exercício em Python 3.
